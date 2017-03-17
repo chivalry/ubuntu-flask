@@ -15,7 +15,7 @@ Create an AWS Ubuntu 16.04 instance and ssh into it. Run the following commands,
 
 ## Acknowledgements
 
-A big thank you to the extremely helpful participants of the [pocoo][ird] channel, without whom I would never have been able to get this working as far as I have.
+A big thank you to the extremely helpful participants of the [pocoo][irc] channel, without whom I would never have been able to get this working as far as I have.
 
 [ubuntu]: https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-16-04
 [irc]: http://www.pocoo.org/irc/
