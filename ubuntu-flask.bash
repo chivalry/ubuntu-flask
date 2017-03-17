@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Echo all commands before execution for debugging.
-set -x
+# set -x
 
 # Use the command line argument as the project name if one is provided.
 proj="${1:-myproject}"
