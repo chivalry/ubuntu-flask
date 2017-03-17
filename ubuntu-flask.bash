@@ -13,7 +13,7 @@ sudo -H pip3 install virtualenv
 
 mkdir ~/$proj
 cd ~/$proj
-virtualenv $proj
+virtualenv ~/$proj/venv
 source ~/$proj/venv/bin/activate
 pip install gunicorn flask
 
