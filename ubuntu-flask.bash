@@ -32,7 +32,7 @@ EOL
 
 deactivate
 
-sudo bash -c "cat > /etc.systemd/system/myproject.service" <<EOL
+sudo bash -c "cat > /etc/systemd/system/myproject.service" <<EOL
 [Unit]
 Description=Gunicorn instance to serve myproject
 After=network.target
